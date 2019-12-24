@@ -1,0 +1,13 @@
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/bin/Debug/LINQ.exe.config
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/bin/Debug/LINQ.exe
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/bin/Debug/LINQ.pdb
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/obj/Debug/LINQ.csprojAssemblyReference.cache
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/obj/Debug/LINQ.csproj.CoreCompileInputs.cache
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/obj/Debug/LINQ.exe
+C:/Users/evilsquirrel/source/repos/LINQ/LINQ/obj/Debug/LINQ.pdb
+/Applications/Prog/Code/2 курс/repos/LINQ/LINQ/bin/Debug/LINQ.exe.config
+/Applications/Prog/Code/2 курс/repos/LINQ/LINQ/bin/Debug/LINQ.exe
+/Applications/Prog/Code/2 курс/repos/LINQ/LINQ/bin/Debug/LINQ.pdb
+/Applications/Prog/Code/2 курс/repos/LINQ/LINQ/obj/Debug/LINQ.csprojAssemblyReference.cache
+/Applications/Prog/Code/2 курс/repos/LINQ/LINQ/obj/Debug/LINQ.exe
+/Applications/Prog/Code/2 курс/repos/LINQ/LINQ/obj/Debug/LINQ.pdb
